@@ -1,7 +1,7 @@
 # Backend HNG Task 0
 
 ## Description
-This is a simple backend API built with Express.js. It provides an endpoint that returns essential details, including the developer's email, the current datetime, and a link to the project's GitHub repository. The API is lightweight and serves as an introduction to backend development.
+This is a simple backend API built with node.js. It provides an endpoint that returns essential details, including the developer's email, the current datetime, and a link to the project's GitHub repository. The API is lightweight and serves as an introduction to backend development.
 
 ## Features
 - Returns developer email.
@@ -46,7 +46,7 @@ Ensure you have the following installed on your machine:
 ### Endpoint: GET /
 #### URL:
 ```
-http://localhost:3000/
+https://backend-hng-task-0.onrender.com
 ```
 
 #### Response Format:
